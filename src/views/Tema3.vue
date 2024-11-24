@@ -177,10 +177,12 @@
 
 <script>
 import SlyderF from '../bootstrap/SlyderF.vue'
+import SlyderA from '../bootstrap/SlyderA.vue'
 export default {
   name: 'Tema3',
   components: {
     SlyderF,
+    SlyderA,
   },
   data: () => ({
     // variables de vue
