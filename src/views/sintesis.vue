@@ -22,7 +22,7 @@
     .row.justify-content-center.mt-5
       .col-lg-10.mb-5(data-aos="fade-up" data-aos-duration="850")
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="La Figura 3 se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre Mantenimiento preventivo de equipos de cómputo tales como: arquitectura de hardware, procedimientos de mantenimiento, herramientas y equipos, y documentación y control.")
+          img(src="@/assets/curso/sintesis.svg", alt="Se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre Mantenimiento preventivo de equipos de cómputo tales como: arquitectura de hardware, procedimientos de mantenimiento, herramientas y equipos, y documentación y control.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
